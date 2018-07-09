@@ -77,7 +77,7 @@ pip install deeru-qiniu
         python manage.py collectstatic
         python manage.py upload_qiniu --type static
     ```
-    若有相同名字的文件会上传失败，可用删除命令上传之前上传的文件
+    若有相同名字的文件会上传失败，可用删除命令删除之前上传的文件
 
 命令
 ----
