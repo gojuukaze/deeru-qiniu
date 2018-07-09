@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     license="GUN V3.0",
 
-    url="https://test.pypi.org/legacy/",
+    url="https://github.com/gojuukaze/deeru-qiniu",
     author="gojuukaze",
     author_email="i@ikaze.uu.me",
     python_requires='>=3.5',
